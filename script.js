@@ -8,11 +8,11 @@ const C = {
     { text: 'You became my wifu, and I became your Kuchu.', title: '1 October 2025' }
   ],
   gallery: [
-    ['viewpoint', 'Us, above the city'], ['lake', 'By the water'], ['bike', 'Riding with you'],
-    ['concert', 'Concert glow'], ['paddle', 'Holding hands, even on the lake'], ['sunny', 'That sunlight on you'],
-    ['laugh', 'Your laugh'], ['call', 'Late night calls, 23:55'], ['rain', 'You in a raincoat, still cute'], ['silly', 'My favourite silly face']
+    ['sarangkot viewpoint', 'Us, above the city'], ['lake', 'By phewa taal'], ['bike', 'Riding with you'],
+    ['concert', 'Concert glow'], ['paddle', 'Holding hands, even on the scary lake'], ['sunny', 'That sunlight on you'],
+    ['laugh', 'Your laugh'], ['call', 'Late night calls, 11:11'], ['rain', 'You in dads raincoat, still cute'], ['silly', 'My favourite silly face']
   ],
-  reasons: ['You are kind to everyone you meet', 'You talk to everyone like they matter', 'You care for me, always', 'You look like an angel to me', 'You make every ride feel like an adventure', 'You are my favourite person to call at midnight'],
+  reasons: ['You make my ordinary days feel like something worth remembering.', 'You are gods favourite', 'You care for me, always', 'You look like an angel to me', 'You make every ride feel like an adventure', 'I don’t need a perfect life, I just want a life where you’re beside me.'],
   pairs: ['lake', 'bike', 'concert', 'paddle', 'sunny', 'treetop'].map(n => `photos/${n}.jpg`),
   // first answer in each list is the correct one. Add more questions here!
   quiz: [
